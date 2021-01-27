@@ -134,6 +134,11 @@ div #tab_content{
     animation: animatename 1.5s;
 }
 
+/* In[]和out[] */
+div.prompt.input_prompt{
+    font-family: UD Digi Kyokasho NK-R, "PingFangSC-Medium", "Microsoft YaHei";
+}
+
 
 /* 顶部导航条 */
 div#menubar-container.container{
